@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "title": "El lenguaje secreto de la naturaleza",
+      "writer": "Oscar S. Aranda",
+      "book_description": "Este libro es un viaje que nos llevará por maravillosos lugares alrededor del mundo para conocer de cerca a seres que, al igual que nosotros, tienen familia, emociones, enfrentan desafíos, toman decisiones y crean alianzas.",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "The Photo Ark",
+      "writer": "Joel Sartore",
+      "book_description": "El proyecto Photo Ark de National Geographic, dirigido por el fotógrafo Joel Sartore, es una iniciativa para documentar a todas las especies que viven en zoos y santuarios de fauna salvaje, inspirar acciones a través de la educación y ayudar a salvar a los animales apoyando iniciativas de conservación sobre el terreno."
+    },
+    {
+      "title": "La sombra del viento",
+      "writer": "Carlos Ruiz Zafón",
+      "book_description": "Historia de romance y tragedia en la antigua Barcelona",
+      "id": "e389"
+    },
+    {
+      "id": "6c84",
+      "title": "Tiburón",
+      "writer": "Peter Benchley",
+      "book_description": "Amity es un idílico pueblo costero que vive del turismo. Una mañana, poco antes del inicio de la temporada de verano, aparece en la playa el cuerpo de una joven atacada por un tiburón. La policía y la prensa ocultan la noticia, que podría ahuyentar a los veraneantes. Cuando los ataques continúan, un grupo de hombres decide enfrentarse a la bestia."
+    },
+    {
+      "id": "01c4",
+      "title": "Fundamentos de Ciencias informáticas",
+      "writer": "Eugenia Bahit",
+      "book_description": "Fundamentos de Ciencias informáticas para el abordaje de la programación abarca las bases científicas de la informática, así como aquellos conocimientos de la ciencia aplicada que explican y fundamentan el funcionamiento de los ordenadores."
+    },
+    {
+      "id": "dc78",
+      "title": "Hábitos atómicos",
+      "writer": "James Clear",
+      "book_description": "A menudo pensamos que para cambiar de vida tenemos que pensar en hacer cambios grandes. Nada más lejos de la realidad. Según el reconocido experto en hábitos James Clear, el cambio real proviene del resultado de cientos de pequeñas decisiones: hacer dos flexiones al día, levantarse cinco minutos antes o hacer una corta llamada telefónica.\n\nClear llama a estas decisiones “hábitos atómicos”: tan pequeños como una partícula, pero tan poderosos como un tsunami. En este libro innovador nos revela exactamente cómo esos cambios minúsculos pueden crecer hasta llegar a cambiar nuestra carrera profesional, nuestras relaciones y todos los aspectos de nuestra vida."
+    },
+    {
+      "title": "Aprendiendo Git y GitHub",
+      "writer": "Miguel Ángel Durán García",
+      "book_description": "Siendo tan importante entender Git, su manejo y dominio, Miguel Ángel Durán escribió un libro que él mismo hubiera estado encantado de leer cuándo empezó. Un libro del que está seguro que podrás extraer algún aprendizaje y que te podrá servir de guía en el futuro.",
+      "id": "e29b"
+    }
+  ]
+}
