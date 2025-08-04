@@ -107,10 +107,12 @@ Luego, abre una Pull Request desde GitHub 🚀
 Autor
 Desarrollado por Aday25.
 
+---
+
 ¡A crear libros! 📚✨
 
 ---
 
 <p align="center">
-  <img src="public/logo.png" alt="Logo Aday25" width="150" />
+  <img src="logo.png" alt="Logo Aday25" width="150" />
 </p>
