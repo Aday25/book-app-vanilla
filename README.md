@@ -84,8 +84,8 @@ Operación disponible:
 
 ¿Quieres colaborar con el proyecto? ¡Toda ayuda es bienvenida! Puedes:
 
-- Mejorar el diseño visual con CSS
-- Refactorizar el código JavaScript
+- Mejorar el diseño visual con CSS  
+- Refactorizar el código JavaScript  
 - Agregar funcionalidades o modularidad
 
 ¿Cómo contribuir?
@@ -102,17 +102,15 @@ git commit -m "Agrega nueva funcionalidad"
 
 # Sube los cambios a tu fork
 git push origin mejora-nueva
+
+```
 Luego, abre una Pull Request desde GitHub 🚀
 
-Autor
+---- 
+
+## Autor
 Desarrollado por Aday25.
 
----
+# ¡A crear libros! 📚✨
 
-¡A crear libros! 📚✨
-
----
-
-<p align="center">
-  <img src="logo.png" alt="Logo Aday25" width="150" />
-</p>
+<p align="center"> <img src="logo.png" alt="Logo Aday25" width="150" /> </p> 
